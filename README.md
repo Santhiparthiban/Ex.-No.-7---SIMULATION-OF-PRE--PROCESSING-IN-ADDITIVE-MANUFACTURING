@@ -41,7 +41,8 @@
 ## OUTPUT:
 <img width="841" height="583" alt="Screenshot 2026-03-12 135828" src="https://github.com/user-attachments/assets/dcc35c0b-aacf-4f47-b908-d22284b71943" />
 <img width="883" height="395" alt="Screenshot 2026-03-12 140001" src="https://github.com/user-attachments/assets/f5e1f30b-f3eb-4044-8fe7-41d7fdc90802" />
-<img width="1011" height="536" alt="Screenshot 2026-03-12 140148" src="https://github.com/user-attachments/assets/03d47eb0-86de-4f16-88ac-e93b85684aca" />
+<img width="1072" height="725" alt="Screenshot 2026-03-12 141933" src="https://github.com/user-attachments/assets/ae7e8502-c72f-44dd-917e-662f1fede37a" />
+
 
 
 
